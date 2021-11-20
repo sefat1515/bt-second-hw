@@ -1,0 +1,17 @@
+
+.header, .hero, .body, .bar, .footer{
+	background: teal;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	background-color: red;
+	font-size: 30px;
+	color: white;
+}
+.lime{
+	background-color: lime;
+}
+.purple{
+	background-color: purple;
+}
